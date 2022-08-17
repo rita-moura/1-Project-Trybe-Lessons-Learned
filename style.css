@@ -6,3 +6,17 @@ body {
     top: 0;
     position: fixed;
 }
+#minha_foto {
+    border-radius: 50%;
+    padding: 15%;
+    width: 30%;
+}
+table, th, td {
+    border: 2px groove black;
+}
+
+aside {
+    border: solid;
+    width: 250px;
+
+}
